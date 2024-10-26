@@ -1,0 +1,4 @@
+﻿  ejercicio2.cpp
+C:\Users\lucia\source\repos\ConsoleApplication4\ejercicio2\ejercicio2.cpp(52,54): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\lucia\source\repos\ConsoleApplication4\ejercicio2\ejercicio2.cpp(52,45): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  ejercicio2.vcxproj -> C:\Users\lucia\source\repos\ConsoleApplication4\x64\Debug\ejercicio2.exe

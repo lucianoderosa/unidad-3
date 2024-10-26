@@ -1,0 +1,12 @@
+﻿  ejercicio7.cpp
+C:\Users\lucia\source\repos\ConsoleApplication4\ejercicio7\ejercicio7.cpp(34,23): warning C4244: 'inicializando': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\lucia\source\repos\ConsoleApplication4\ejercicio7\ejercicio7.cpp(34,23): warning C4244:         with
+C:\Users\lucia\source\repos\ConsoleApplication4\ejercicio7\ejercicio7.cpp(34,23): warning C4244:         [
+C:\Users\lucia\source\repos\ConsoleApplication4\ejercicio7\ejercicio7.cpp(34,23): warning C4244:             T=unsigned int
+C:\Users\lucia\source\repos\ConsoleApplication4\ejercicio7\ejercicio7.cpp(34,23): warning C4244:         ]
+C:\Users\lucia\source\repos\ConsoleApplication4\ejercicio7\ejercicio7.cpp(35,24): warning C4244: 'inicializando': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\lucia\source\repos\ConsoleApplication4\ejercicio7\ejercicio7.cpp(35,24): warning C4244:         with
+C:\Users\lucia\source\repos\ConsoleApplication4\ejercicio7\ejercicio7.cpp(35,24): warning C4244:         [
+C:\Users\lucia\source\repos\ConsoleApplication4\ejercicio7\ejercicio7.cpp(35,24): warning C4244:             T=unsigned int
+C:\Users\lucia\source\repos\ConsoleApplication4\ejercicio7\ejercicio7.cpp(35,24): warning C4244:         ]
+  ejercicio7.vcxproj -> C:\Users\lucia\source\repos\ConsoleApplication4\x64\Debug\ejercicio7.exe
